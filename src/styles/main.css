@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 100vh;
+    /* border: 1px solid red; */
+    background-color: rgb(217, 228, 228);
+}
+.container{
+    width: 780px;
+    border-radius: 20px;
+    padding: 35px 40px;
+    border: 1px solid red;
+}
+header h2{
+    font-size: 1.6rem;
+}
+header .column{
+    display: flex;
+    align-items: center;
+
+}
+header .column span{
+    font-weight: 500;
+    margin-right: 15px;
+    font-size: 1.19rem;
+}
+.volume-slider input{
+    accent-color: #fff;
+
+}
+
+.keys-check input{
+    width: 60px;
+    height: 30px;
+    appearance: none;
+    border-radius: 30px;
+    background-color: gray;
+    cursor: pointer;
+    position: relative;
+     
+}
