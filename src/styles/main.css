@@ -108,14 +108,14 @@ header .column span{
 }
 
 /* pra dar a senssação de profundidade quando clicar */
-.piano-keys .white:active{
+.piano-keys .white.active{
     box-shadow: inset -5px 5px 20px;
     color: rgba(0, 0, 0, 0.2);
     background: linear-gradient(to bottom #fff 0%, #eee 100%) ;
 }
 
 /* pra dar a senssação de profundidade quando clicar */
-.piano-keys .black:active{
+.piano-keys .black.active{
     box-shadow: inset -5px 5px 10px;
     color: rgba(255, 255, 255, 0.1);
     background: linear-gradient(to bottom #000, #434343 ) ;
