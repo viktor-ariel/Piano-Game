@@ -1,4 +1,4 @@
-# Piano Game 🎮
+# 🎹 Piano Game 🎹
 
 ##  Piano Game 🚀
 
