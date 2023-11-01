@@ -120,3 +120,6 @@ header .column span{
     color: rgba(255, 255, 255, 0.1);
     background: linear-gradient(to bottom #000, #434343 ) ;
 }
+.piano-keys .key.hide span{
+    display: none;
+}
